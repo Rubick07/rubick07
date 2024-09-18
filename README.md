@@ -1,6 +1,8 @@
 ## Hi There👋
 Hello! My name is Evan Jonathan, I'm a beginner game programmer using Unity Engine. Currently an active student at Binus University, majoring in B26 Game Application and Technology. Being an avid gamer with a passion for gaming inspired me to pursue this particular field of study. Has a curiosity beyond just playing games and deeply interested in understanding the mechanics behind the creation and development of games.
 
+
+
 ## ✨Featured Projects
 <table>
     <tr>
@@ -9,8 +11,8 @@ Hello! My name is Evan Jonathan, I'm a beginner game programmer using Unity Engi
     </tr>
   <tbody>
   <tr width="500px" align="center">
-  <td><img src="https://github.com/user-attachments/assets/ebe82a5e-fe10-429b-9852-f222c433a920" height="200px"></td>
-  <td><img src="https://github.com/wahyuwerayana/Side-Scroller/assets/115724777/56f6ff65-2ae2-4eb0-9d27-f047be7e16c7" height="200px"></td>
+  <td><img src="https://github.com/user-attachments/assets/50d90b91-a025-40c3-97e9-b4ec1b483c39" height="200px"></td>
+  <td><img src="https://github.com/user-attachments/assets/4073ec96-65ab-432a-aa24-05b4ad35e75d" height="200px"></td>
   </tr>
   
   <tr width="500px">
@@ -28,8 +30,8 @@ Hello! My name is Evan Jonathan, I'm a beginner game programmer using Unity Engi
   </tr>
     
   <tr width="500px">
-      <td>Nora's Breath is a roguelike tower defense game. Player will take place as a little seed, using the power of spirit given by Nora to protect Yggdrasil. Fight the enemy till the end and protect Yggdrasil at all cost.</td>
-      <td>A serious game created with the theme of special needs using SIBI sign language with a combination of role playing, puzzles and a little horror element.</td>
+      <td>Drink Drink Drink is a game about creating a drinkable water company with trusty androids.</td>
+      <td>A turn-based game where the hunter job is fight the virus, clear minigames to unlock firewall, and go to finish node</td>
   </tr>
   </tbody>
 </table>
