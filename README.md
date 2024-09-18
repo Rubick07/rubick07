@@ -1,4 +1,4 @@
-![346579458-2d7d8995-1cf6-4ea0-944f-9b02478d0b53](https://github.com/user-attachments/assets/5d4b37ad-cae1-45b2-b8c4-982dc6dd8b71)![346579458-2d7d8995-1cf6-4ea0-944f-9b02478d0b53](https://github.com/user-attachments/assets/68aa01df-dafe-4ea6-b364-66eced126963)## Hi There👋
+## Hi There👋
 Hello! My name is Evan Jonathan, I'm a beginner game programmer using Unity Engine. Currently an active student at Binus University, majoring in B26 Game Application and Technology. Being an avid gamer with a passion for gaming inspired me to pursue this particular field of study. Has a curiosity beyond just playing games and deeply interested in understanding the mechanics behind the creation and development of games.
 
 ## ✨Featured Projects
