@@ -2,7 +2,6 @@
 Hello! My name is Evan Jonathan, I'm a beginner game programmer using Unity Engine. Currently an active student at Binus University, majoring in B26 Game Application and Technology. Being an avid gamer with a passion for gaming inspired me to pursue this particular field of study. Has a curiosity beyond just playing games and deeply interested in understanding the mechanics behind the creation and development of games.
 
 
-
 ## ✨Featured Projects
 <table>
     <tr>
@@ -25,8 +24,8 @@ Hello! My name is Evan Jonathan, I'm a beginner game programmer using Unity Engi
   </tr>
       
   <tr width="500px" align="center">
-    <td><img src="https://github.com/user-attachments/assets/b99922c1-fc57-4b6b-9bd3-3f95ce4ec2af" height="200px"></td>
-    <td><img src="https://github.com/wahyuwerayana/Forbidden-Dream-Project/assets/115724777/27d1cf97-fc30-4845-9e96-6217327e648b" height="200px"></td>
+    <td><img src="https://github.com/user-attachments/assets/792d3f88-e8b4-4a6d-b34e-a9a506fdbcf6" height="200px"></td>
+    <td><img src="https://github.com/user-attachments/assets/b36fe5c7-f078-4158-85ab-ee540efa6915" height="200px"></td>
   </tr>
     
   <tr width="500px">
