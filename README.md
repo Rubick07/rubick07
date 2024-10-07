@@ -10,7 +10,7 @@ Hello! My name is Evan Jonathan, I'm a passionate game programmer using Unity En
     </tr>
   <tbody>
   <tr width="500px" align="center">
-  <td><img src="https://github.com/user-attachments/assets/50d90b91-a025-40c3-97e9-b4ec1b483c39" height="200px"></td>
+  <td><img src="https://github.com/user-attachments/assets/2be270e9-a073-4033-9f04-e94828dda4e4" height="200px"></td>
   <td><img src="https://github.com/user-attachments/assets/4073ec96-65ab-432a-aa24-05b4ad35e75d" height="200px"></td>
   </tr>
   
