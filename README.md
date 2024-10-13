@@ -16,7 +16,7 @@ Hello! My name is Evan Jonathan, I'm a passionate game programmer using Unity En
   
   <tr width="500px">
     <td>Echoes Beneath is a 3D Horror Game where the objective is to escape from sewer, uncover mystery ,and avoid the monster.</td>
-    <td>Mirai is a side-scroller</td>
+    <td>Mirai is a 2D Side scroller action game set in the future in which you must travel beyond the wastelands to find the city of tomorrow that can save humanity.</td>
   </tr>
   <tr>
     <th width="500px"> <a href="https://github.com/Rubick07/GameToday">Drink Drink Drink</th>
