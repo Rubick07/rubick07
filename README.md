@@ -30,7 +30,7 @@ Hello! My name is Evan Jonathan, I'm a passionate game programmer using Unity En
       <td align="center"><a href="https://github.com/Rubick07/IGI_GameJam">Read More</a></td> <!--link2-->
     </tr>
     <tr>
-      <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA">Trailer</a></td> <!--link1-->
+      <td align="center"><a href="https://xviig.itch.io/echoes-beneath">Itch Page</a></td> <!--link1-->
       <td align="center"><a href="https://keen-fm.itch.io/mirai">Itch Page</a></td> <!--link2-->
     </tr>
   </tbody>
