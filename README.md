@@ -1,9 +1,69 @@
 Hi, I'm Evan 👋
 ---
 **📌About** <br>
-Hello! My name is Evan Jonathan, I'm a passionate game programmer using Unity Engine. Currently an active student at Binus University, majoring in B26 Game Application and Technology. 
+Hello! My name is Evan Jonathan, I'm a passionate game programmer specialized in Unity Engine. Currently an active student at Binus University, majoring in B26 Game Application and Technology. 
 
 <br>
+
+## My Projects
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center"><a>Sunside Cafe</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>TurnbaseBase</a></th> <!--tittle-->
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img width="800" height="446" alt="SunsidePorto" src="https://github.com/user-attachments/assets/4ffd8ede-6503-4b9b-bd78-e837bf210c3b" />
+      </td>
+      <td align="center">
+        <img width="800" height="446" alt="TurnBaseBattleGif" src="https://github.com/user-attachments/assets/c0f0d33b-1c43-4bd0-9230-4b47ff6497ae" />
+      </td>
+    </tr>
+    <tr>
+      <td valign="text-top">a student named Lucas who experiences burnout and tries to cure it by going to his uncle's town during the holidays. During his vacation, he tries to explore his own problems with the help of those around him while helping his uncle with his problems.</td> <!--desc-->
+      <td valign="text-top">This is my side project i'm trying to make RPG TurnBase Battle System</td> <!--desc-->
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Rubick07/Sunside_Cafe">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/Rubick07/BelajarBikinTurnBase">Read More</a></td> <!--link2-->
+    </tr>
+    
+  </tbody>
+</table>
+
+
+<br>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center"><a>TurnbaseBase</a></th> <!--tittle 3-->
+      <th width="50%" align="center"><a>TacticalBase</a></th> <!--tittle 4-->
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/792d3f88-e8b4-4a6d-b34e-a9a506fdbcf6" alt="1" style="width:100%;height:auto;">
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/b36fe5c7-f078-4158-85ab-ee540efa6915" alt="2" style="width:100%;height:auto;">
+      </td>
+    </tr>
+    <tr>
+      <td valign="text-top">Drink Drink Drink is a game about creating a drinkable water company with trusty androids.</td> <!--desc-->
+      <td valign="text-top">This is my side project i'm trying to make Tactical Turnbase Battle System</td> <!--desc-->
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Rubick07/GameToday">Read More</a></td> <!--link 3-->
+      <td align="center"><a href="https://github.com/Rubick07/Cyber-Hunter">Read More</a></td> <!--link 4-->
+    </tr>
+  </tbody>
+</table>
+
 
 ## Other Projects
 <table width="100%">
