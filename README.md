@@ -74,4 +74,7 @@ Hello! My name is Evan Jonathan, I'm a passionate game programmer using Unity En
 ## 🛠️Tools / Software
 The tools / software that I often use are:
 - Unity
+- Canva
+- Figma
+- Visual Studio 2022
 - Visual Studio Code
