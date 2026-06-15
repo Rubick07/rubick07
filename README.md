@@ -16,10 +16,10 @@ Hello! My name is Evan Jonathan, I'm a passionate game programmer specialized in
   <tbody>
     <tr>
       <td align="center">
-        <img width="800" height="446" alt="SunsidePorto" src="https://github.com/user-attachments/assets/4ffd8ede-6503-4b9b-bd78-e837bf210c3b" />
+        <img width=100% height=auto alt="SunsidePorto" src="https://github.com/user-attachments/assets/4ffd8ede-6503-4b9b-bd78-e837bf210c3b" />
       </td>
       <td align="center">
-        <img width="800" height="446" alt="TurnBaseBattleGif" src="https://github.com/user-attachments/assets/c0f0d33b-1c43-4bd0-9230-4b47ff6497ae" />
+        <img width=100% height=auto alt="TurnBaseBattleGif" src="https://github.com/user-attachments/assets/c0f0d33b-1c43-4bd0-9230-4b47ff6497ae" />
       </td>
     </tr>
     <tr>
