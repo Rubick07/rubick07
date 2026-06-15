@@ -5,6 +5,7 @@ Hello! My name is Evan Jonathan, I'm a passionate game programmer using Unity En
 
 <br>
 
+## Other Projects
 <table width="100%">
   <thead>
     <tr>
