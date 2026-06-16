@@ -40,21 +40,28 @@ Hello! My name is Evan Jonathan, I'm a passionate game programmer specialized in
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Tactical TurnBase</a></th> <!--tittle 3-->
-      <th width="50%" align="center"><a>TurnbaseBase</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Tactical Turnbase</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Mirai</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/792d3f88-e8b4-4a6d-b34e-a9a506fdbcf6" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/user-attachments/assets/2be270e9-a073-4033-9f04-e94828dda4e4" alt="1" style="width:100%;height:auto;">
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/4073ec96-65ab-432a-aa24-05b4ad35e75d" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
-      <td valign="text-top">This is my side project i'm trying to make Tactical Turnbase Battle System</td> <!--desc-->
+      <td valign="text-top">This is my side project i'm trying to make Tactical TurnBase Battle System</td> <!--desc-->
+      <td valign="text-top">Mirai is a 2D Side scroller action game set in the future in which you must travel beyond the wastelands to find the city of tomorrow that can save humanity.</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Rubick07/Tactical_Turnbase">Read More</a></td> <!--link 4-->
+      <td align="center"><a href="https://github.com/Redacted-Studio/Echoes_Beneath">Read More</a></td> <!--link1-->
+    </tr>
+    <tr>
+      <td align="center"><a href="https://xviig.itch.io/echoes-beneath">Itch Page</a></td> <!--link1-->
     </tr>
   </tbody>
 </table>
