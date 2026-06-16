@@ -58,10 +58,10 @@ Hello! My name is Evan Jonathan, I'm a game developer specialized in Unity Engin
   <tbody>
     <tr>
       <td align="center">
-        <img width=100% height=auto alt="TacticalTurnbasesPorto" src="https://github.com/user-attachments/assets/cd549b6f-68c4-4427-b938-2d39adaa409d" />
+        <img width=100% height=auto alt="TacticalTurnbases" src="https://github.com/user-attachments/assets/cd549b6f-68c4-4427-b938-2d39adaa409d" />
       </td>
       <td align="center">
-        <img width=100% height=auto alt="TurnBaseBattleGif" src="https://github.com/user-attachments/assets/c0f0d33b-1c43-4bd0-9230-4b47ff6497ae" />
+        <img width=100% height=auto alt="RPGTurnbaseCompressed" src="https://github.com/user-attachments/assets/10b2a5a3-fb94-49e6-86c5-5704cb65f829" />
       </td>
     </tr>
     <tr>
