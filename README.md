@@ -16,7 +16,7 @@ Hello! My name is Evan Jonathan, I'm a game developer specialized in Unity Engin
   <tbody>
     <tr>
       <td align="center">
-        <img width=100% height=auto alt="SunsidePorto" src="https://github.com/user-attachments/assets/a3cf2b11-2e67-458d-a0ff-bf062e9dcbaa"/>
+        <img width=100% height=auto alt="SunsidePorto" src="https://github.com/user-attachments/assets/5a0252aa-6247-4fab-882f-3811e4c8e4ac"/>
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/2be270e9-a073-4033-9f04-e94828dda4e4" alt="1" style="width:100%;height:auto;">
