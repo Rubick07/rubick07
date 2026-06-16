@@ -5,54 +5,58 @@ Hello! My name is Evan Jonathan, I'm a passionate game programmer specialized in
 
 <br>
 
+
 ## My Projects
 <table width="100%">
+   <thead>
+    <tr>
+      <th colspan="2" align="center"><a>Sunside Cafe</a></th> <!--tittle-->
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" align="center">
+        <img width=100% height=auto alt="SunsidePorto" src="https://github.com/user-attachments/assets/a3cf2b11-2e67-458d-a0ff-bf062e9dcbaa" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2"valign="text-top">
+        a student named Lucas who experiences burnout and tries to cure it by going to his uncle's town during the holidays. During his vacation, he tries to explore his own problems with the help of those around him while helping his uncle with his problems.
+      </td> <!--desc-->
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><a href="https://github.com/Rubick07/Sunside_Cafe">Read More</a></td> <!--link1-->
+    </tr>
+    
+  </tbody>
+  
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Sunside Cafe</a></th> <!--tittle-->
-      <th width="50%" align="center"><a>RPG Battle System Base</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Tactical Battle System</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>RPG Battle System</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <img width=100% height=auto alt="SunsidePorto" src="https://github.com/user-attachments/assets/4ffd8ede-6503-4b9b-bd78-e837bf210c3b" />
+        <img width=100% height=auto alt="TacticalTurnbasesPorto" src="https://github.com/user-attachments/assets/cd549b6f-68c4-4427-b938-2d39adaa409d" />
       </td>
       <td align="center">
         <img width=100% height=auto alt="TurnBaseBattleGif" src="https://github.com/user-attachments/assets/c0f0d33b-1c43-4bd0-9230-4b47ff6497ae" />
       </td>
     </tr>
     <tr>
-      <td valign="text-top">a student named Lucas who experiences burnout and tries to cure it by going to his uncle's town during the holidays. During his vacation, he tries to explore his own problems with the help of those around him while helping his uncle with his problems.</td> <!--desc-->
-      <td valign="text-top">This is my side project i'm trying to make RPG TurnBase Battle System</td> <!--desc-->
+      <td valign="text-top">This is my side project i'm trying to make Tactical TurnBase Battle System</td> <!--desc-->
+      <td align="justify">this project is a RPG game focused on Battle System and action structure. The main goal was to develop a scalable gameplay foundation by using strategy pattern for action command in Unit, applying particle effect and Animation. The side system im trying to make in this project is the World UI and Using DG Tween to animate UI animation and explore system in city like buying item, inventory and player controller.
+<br><br>
+I Implement the EnemyAI in this using ActionValue in BaseAction so enemy can check every action it have to use the best action to use and every action can calculate action value differently depending on conditions</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Rubick07/Sunside_Cafe">Read More</a></td> <!--link1-->
       <td align="center"><a href="https://github.com/Rubick07/BelajarBikinTurnBase">Read More</a></td> <!--link2-->
-    </tr>
+    </tr><img width="42" height="28" alt="GambarC" src="https://github.com/user-attachments/assets/5e32d4bf-a1ac-48b0-a872-a6ce6e5d8283" />
 
 
-
-    
-  </tbody>
-
-  <thead>
-    <tr>
-      <th colspan="2" align="center"><a>Tactical Turnbase</a></th> <!--tittle-->
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td colspan="2" align="center">
-        <img width=100% height=auto alt="TacticalTurnbasesPorto" src="https://github.com/user-attachments/assets/8544e987-04e5-48d0-9a02-892958a05fa5" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">This is my side project i'm trying to make RPG TurnBase Battle System</td> <!--desc-->
-    </tr>
-    <tr>
-      <td colspan="2" align="center"><a href="https://github.com/Rubick07/Tactical_Turnbase">Read More</a></td> <!--link1-->
-    </tr>
     
   </tbody>
 </table>
