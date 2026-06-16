@@ -41,7 +41,6 @@ Hello! My name is Evan Jonathan, I'm a passionate game programmer specialized in
   <thead>
     <tr>
       <th width="50%" align="center"><a>TurnbaseBase</a></th> <!--tittle 3-->
-      <th width="50%" align="center"><a>TacticalBase</a></th> <!--tittle 4-->
     </tr>
   </thead>
   <tbody>
@@ -49,16 +48,11 @@ Hello! My name is Evan Jonathan, I'm a passionate game programmer specialized in
       <td align="center">
         <img src="https://github.com/user-attachments/assets/792d3f88-e8b4-4a6d-b34e-a9a506fdbcf6" alt="1" style="width:100%;height:auto;">
       </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/b36fe5c7-f078-4158-85ab-ee540efa6915" alt="2" style="width:100%;height:auto;">
-      </td>
     </tr>
     <tr>
-      <td valign="text-top">Drink Drink Drink is a game about creating a drinkable water company with trusty androids.</td> <!--desc-->
       <td valign="text-top">This is my side project i'm trying to make Tactical Turnbase Battle System</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Rubick07/GameToday">Read More</a></td> <!--link 3-->
       <td align="center"><a href="https://github.com/Rubick07/Cyber-Hunter">Read More</a></td> <!--link 4-->
     </tr>
   </tbody>
