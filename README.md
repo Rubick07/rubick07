@@ -10,7 +10,7 @@ Hello! My name is Evan Jonathan, I'm a passionate game programmer specialized in
   <thead>
     <tr>
       <th width="50%" align="center"><a>Sunside Cafe</a></th> <!--tittle-->
-      <th width="50%" align="center"><a>TurnbaseBase</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>RPG Battle System Base</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
