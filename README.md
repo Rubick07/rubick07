@@ -1,7 +1,7 @@
 Hi, I'm Evan 👋
 ---
 **📌About** <br>
-Hello! My name is Evan Jonathan, I'm a passionate game programmer specialized in Unity Engine. Currently an active student at Binus University, majoring in B26 Game Application and Technology. 
+Hello! My name is Evan Jonathan, I'm a game developer specialized in Unity Engine. I enjoy developing games, designing gameplay systems, and turning ideas into playable experiences. Most of my projects are built using Unity and C#, with interests in game mechanics, AI, and explore new technologies related to game development.
 
 <br>
 
@@ -15,7 +15,7 @@ Hello! My name is Evan Jonathan, I'm a passionate game programmer specialized in
   <tbody>
     <tr>
       <td colspan="2" align="center">
-        <img width=100% height=auto alt="SunsidePorto" src="https://github.com/user-attachments/assets/a3cf2b11-2e67-458d-a0ff-bf062e9dcbaa" />
+        <img width=100% height=auto alt="SunsidePorto" src="https://github.com/user-attachments/assets/a3cf2b11-2e67-458d-a0ff-bf062e9dcbaa"/>
       </td>
     </tr>
     <tr>
@@ -26,7 +26,9 @@ Hello! My name is Evan Jonathan, I'm a passionate game programmer specialized in
          <br>
          Description:
          <br>
-        a student named Lucas who experiences burnout and tries to cure it by going to his uncle's town during the holidays. During his vacation, he tries to explore his own problems with the help of those around him while helping his uncle with his problems.
+         a serious Game about burnout syndrome, the game itself about a student named Lucas who experiences burnout and tries to cure it by going to his uncle's town during the holidays. During his vacation, he tries to explore his own problems with the help of those around him while helping his uncle with his problems.
+         <br><br>
+         Served as the sole programmer within a 3-person team, responsible for implementing entire technical architecture from GDD and applying UI from Figma
       </td> <!--desc-->
     </tr>
     <tr>
@@ -57,7 +59,9 @@ Hello! My name is Evan Jonathan, I'm a passionate game programmer specialized in
          <img width="40" height="40" alt="Unity" src="https://github.com/user-attachments/assets/15055160-7733-4caa-8bc0-84038452aaef" /><img width="63" height="38" alt="logo-c-630x380" src="https://github.com/user-attachments/assets/ec05df3b-10c9-441f-a6c5-b155cc57c9a6" />
          <br>
          Description:
-         <br>This is my side project i'm trying to make Tactical TurnBase Battle System</td> <!--desc-->
+         <br>This project is one of my early Unity project where im trying to understand command Pattern and Tilebase System. 
+      <br><br>
+The Main goal of this project to deepen understanding of command pattern and how to make a tilebase System by making a tactical combat game</td> <!--desc-->
       <td align="justify">
                   Tech Stack:
          <br><br>
@@ -65,7 +69,7 @@ Hello! My name is Evan Jonathan, I'm a passionate game programmer specialized in
          <br>
          Description:
          <br>
-         this project is a RPG game focused on Battle System and action structure. The main goal was to develop a scalable gameplay foundation by using strategy pattern for action command in Unit, applying particle effect and Animation. The side system im trying to make in this project is the World UI and Using DG Tween to animate UI animation and explore system in city like buying item, inventory and player controller.
+         this project is a RPG game focused on Battle System and action structure. The main goal was to develop a scalable gameplay foundation by using command pattern for action command in Unit, applying particle effect and Animation, and basic battle flow. The side system im trying to make in this project is the World UI and Using DG Tween to animate UI animation and explore system in city like buying item, inventory and player controller.
 <br><br>
 I Implement the EnemyAI in this using ActionValue in BaseAction so enemy can check every action it have to use the best action to use and every action can calculate action value differently depending on conditions</td> <!--desc-->
     </tr>
