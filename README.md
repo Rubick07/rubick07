@@ -5,7 +5,7 @@ Hello! My name is Evan Jonathan, I'm a game developer specialized in Unity Engin
 
 <br>
 
-## My Projects
+## Featured Projects
 <table width="100%">
    <thead>
     <tr>
@@ -125,7 +125,10 @@ I Implement the EnemyAI in this using ActionValue in BaseAction so enemy can che
          <img width="40" height="40" alt="Unity" src="https://github.com/user-attachments/assets/15055160-7733-4caa-8bc0-84038452aaef" /><img width="63" height="38" alt="logo-c-630x380" src="https://github.com/user-attachments/assets/ec05df3b-10c9-441f-a6c5-b155cc57c9a6" />
          <br>
          Description:
-         <br>Drink Drink Drink is a game about creating a drinkable water company with trusty androids.</td> <!--desc-->
+         <br>Drink Drink Drink is a game about creating a drinkable water company with trusty androids.
+         <br><br>
+         My Role here as the sole programmer creating management system
+      </td> <!--desc-->
       <td valign="text-top">
                   Tech Stack:
          <br><br>
@@ -133,14 +136,18 @@ I Implement the EnemyAI in this using ActionValue in BaseAction so enemy can che
          <br>
          Description:
          <br>
-         Mirai is a 2D Side scroller action game set in the future in which you must travel beyond the wastelands to find the city of tomorrow that can save humanity.</td> <!--desc-->
+         Mirai is a 2D Side scroller action game set in the future in which you must travel beyond the wastelands to find the city of tomorrow that can save humanity.
+         <br><br>
+         My Role here as the sole programmer creating combat system</td> <!--desc-->
       <td valign="text-top">         Tech Stack:
          <br><br>
          <img width="40" height="40" alt="Unity" src="https://github.com/user-attachments/assets/15055160-7733-4caa-8bc0-84038452aaef" /><img width="63" height="38" alt="logo-c-630x380" src="https://github.com/user-attachments/assets/ec05df3b-10c9-441f-a6c5-b155cc57c9a6"/>
          <br>
          Description:
          <br>
-         A turn-based game where the hunter job is fight the virus, clear minigames to unlock firewall, and go to finish node</td> <!--desc-->
+         A turn-based game where the hunter job is fight the virus, clear minigames to unlock firewall, and go to finish node
+               <br><br>
+         My Role here as the sole programmer creating Node System</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Rubick07/GameToday">Read More</a></td> <!--link1-->
@@ -157,55 +164,26 @@ I Implement the EnemyAI in this using ActionValue in BaseAction so enemy can che
 
 
 <br>
+## Languages and Frameworks
+<br>
+
+<img width="86" height="28" alt="Unity" src="https://github.com/user-attachments/assets/208bd794-4159-4556-ac94-e3d5e1a5d197" />
+<img width="42" height="28" alt="C#" src="https://github.com/user-attachments/assets/629c4df3-89d7-47ec-8df8-bad79304a8f4" />
 
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="50%" align="center"><a>Drink Drink Drink</a></th> <!--tittle 3-->
-      <th width="50%" align="center"><a>Cyber Hunter</a></th> <!--tittle 4-->
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/792d3f88-e8b4-4a6d-b34e-a9a506fdbcf6" alt="1" style="width:100%;height:auto;">
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/b36fe5c7-f078-4158-85ab-ee540efa6915" alt="2" style="width:100%;height:auto;">
-      </td>
-    </tr>
-    <tr>
-      <td valign="text-top">         Tech Stack:
-         <br><br>
-         <img width="40" height="40" alt="Unity" src="https://github.com/user-attachments/assets/15055160-7733-4caa-8bc0-84038452aaef" /><img width="63" height="38" alt="logo-c-630x380" src="https://github.com/user-attachments/assets/ec05df3b-10c9-441f-a6c5-b155cc57c9a6" />
-         <br>
-         Description:
-         <br>
-         Drink Drink Drink is a game about creating a drinkable water company with trusty androids.</td> <!--desc-->
-      <td valign="text-top">         Tech Stack:
-         <br><br>
-         <img width="40" height="40" alt="Unity" src="https://github.com/user-attachments/assets/15055160-7733-4caa-8bc0-84038452aaef" /><img width="63" height="38" alt="logo-c-630x380" src="https://github.com/user-attachments/assets/ec05df3b-10c9-441f-a6c5-b155cc57c9a6"/>
-         <br>
-         Description:
-         <br>
-         A turn-based game where the hunter job is fight the virus, clear minigames to unlock firewall, and go to finish node</td> <!--desc-->
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/Rubick07/GameToday">Read More</a></td> <!--link 3-->
-      <td align="center"><a href="https://github.com/Rubick07/Cyber-Hunter">Read More</a></td> <!--link 4-->
-    </tr>
-    <tr>
-      <td align="center"><a href="https://keen-fm.itch.io/drink-drink-drink">Itch Page</a></td> <!--link 3-->
-      <td align="center"><a href="https://keen-fm.itch.io/cyber-hunter">Itch Page</a></td> <!--link 4-->
-    </tr>
-  </tbody>
-</table>
 
 ## 🛠️Tools / Software
 The tools / software that I often use are:
-- Unity
-- Canva
-- Figma
-- Visual Studio 2022
-- Visual Studio Code
+<br>
+<img width="86" height="28" alt="Unity" src="https://github.com/user-attachments/assets/b939f455-9570-47dd-8ed1-b73e13d8d1db" />
+<img width="171" height="28" alt="VisualStudio" src="https://github.com/user-attachments/assets/8a3ed4d3-2a28-4577-b740-14863d0e0764" />
+<img width="130" height="28" alt="VisualStudioCode" src="https://github.com/user-attachments/assets/29f43928-866c-49c5-abb9-6e169dd58871" />
+<img width="68" height="28" alt="git" src="https://github.com/user-attachments/assets/e715bca9-2d62-4ee3-839f-936285d12512" />
+<img width="96" height="28" alt="Github" src="https://github.com/user-attachments/assets/f2cebede-6e63-4a4a-a271-5c254a1cd1c1" />
+<img width="87" height="28" alt="figma" src="https://github.com/user-attachments/assets/26956f8d-76c3-4725-8123-eb633209b4d0" />
+
+
+## Connect with me
+<img width="87" height="28" alt="Gmail" src="https://github.com/user-attachments/assets/162462a2-7726-4553-a99e-11eb0c2b0286" /><img width="96" height="28" alt="Github" src="https://github.com/user-attachments/assets/da26f449-588f-4c04-8dc6-a21eefd07540" />
+
+
