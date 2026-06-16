@@ -53,7 +53,7 @@ Hello! My name is Evan Jonathan, I'm a passionate game programmer specialized in
       <td valign="text-top">This is my side project i'm trying to make Tactical Turnbase Battle System</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Rubick07/Cyber-Hunter">Read More</a></td> <!--link 4-->
+      <td align="center"><a href="https://github.com/Rubick07/Tactical_Turnbase">Read More</a></td> <!--link 4-->
     </tr>
   </tbody>
 </table>
