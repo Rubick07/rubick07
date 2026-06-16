@@ -30,41 +30,34 @@ Hello! My name is Evan Jonathan, I'm a passionate game programmer specialized in
       <td align="center"><a href="https://github.com/Rubick07/Sunside_Cafe">Read More</a></td> <!--link1-->
       <td align="center"><a href="https://github.com/Rubick07/BelajarBikinTurnBase">Read More</a></td> <!--link2-->
     </tr>
+
+
+
     
   </tbody>
-</table>
 
-
-<br>
-
-<table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Tactical Turnbase</a></th> <!--tittle-->
-      <th width="50%" align="center"><a>Mirai</a></th> <!--tittle-->
+      <th colspan="2" align="center"><a>Tactical Turnbase</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/2be270e9-a073-4033-9f04-e94828dda4e4" alt="1" style="width:100%;height:auto;">
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/4073ec96-65ab-432a-aa24-05b4ad35e75d" alt="2" style="width:100%;height:auto;">
+      <td colspan="2" align="center">
+        <img width=100% height=auto alt="TacticalTurnbasesPorto" src="https://github.com/user-attachments/assets/8544e987-04e5-48d0-9a02-892958a05fa5" />
       </td>
     </tr>
     <tr>
-      <td valign="text-top">This is my side project i'm trying to make Tactical TurnBase Battle System</td> <!--desc-->
-      <td valign="text-top">Mirai is a 2D Side scroller action game set in the future in which you must travel beyond the wastelands to find the city of tomorrow that can save humanity.</td> <!--desc-->
+      <td colspan="2" align="center">This is my side project i'm trying to make RPG TurnBase Battle System</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Redacted-Studio/Echoes_Beneath">Read More</a></td> <!--link1-->
+      <td colspan="2" align="center"><a href="https://github.com/Rubick07/Tactical_Turnbase">Read More</a></td> <!--link1-->
     </tr>
-    <tr>
-      <td align="center"><a href="https://xviig.itch.io/echoes-beneath">Itch Page</a></td> <!--link1-->
-    </tr>
+    
   </tbody>
 </table>
+
+<br>
 
 
 ## Other Projects
