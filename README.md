@@ -40,7 +40,8 @@ Hello! My name is Evan Jonathan, I'm a passionate game programmer specialized in
 <table width="100%">
   <thead>
     <tr>
-      <th width="40%" align="center"><a>TurnbaseBase</a></th> <!--tittle 3-->
+      <th width="50%" align="center"><a>Tactical TurnBase</a></th> <!--tittle 3-->
+      <th width="50%" align="center"><a>TurnbaseBase</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
