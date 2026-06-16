@@ -5,7 +5,6 @@ Hello! My name is Evan Jonathan, I'm a passionate game programmer specialized in
 
 <br>
 
-
 ## My Projects
 <table width="100%">
    <thead>
@@ -21,6 +20,12 @@ Hello! My name is Evan Jonathan, I'm a passionate game programmer specialized in
     </tr>
     <tr>
       <td colspan="2"valign="text-top">
+         Tech Stack:
+         <br><br>
+         <img width="40" height="40" alt="Unity" src="https://github.com/user-attachments/assets/15055160-7733-4caa-8bc0-84038452aaef" /><img width="63" height="38" alt="logo-c-630x380" src="https://github.com/user-attachments/assets/ec05df3b-10c9-441f-a6c5-b155cc57c9a6" />
+         <br>
+         Description:
+         <br>
         a student named Lucas who experiences burnout and tries to cure it by going to his uncle's town during the holidays. During his vacation, he tries to explore his own problems with the help of those around him while helping his uncle with his problems.
       </td> <!--desc-->
     </tr>
@@ -46,15 +51,28 @@ Hello! My name is Evan Jonathan, I'm a passionate game programmer specialized in
       </td>
     </tr>
     <tr>
-      <td valign="text-top">This is my side project i'm trying to make Tactical TurnBase Battle System</td> <!--desc-->
-      <td align="justify">this project is a RPG game focused on Battle System and action structure. The main goal was to develop a scalable gameplay foundation by using strategy pattern for action command in Unit, applying particle effect and Animation. The side system im trying to make in this project is the World UI and Using DG Tween to animate UI animation and explore system in city like buying item, inventory and player controller.
+      <td valign="text-top">         
+         Tech Stack:
+         <br><br>
+         <img width="40" height="40" alt="Unity" src="https://github.com/user-attachments/assets/15055160-7733-4caa-8bc0-84038452aaef" /><img width="63" height="38" alt="logo-c-630x380" src="https://github.com/user-attachments/assets/ec05df3b-10c9-441f-a6c5-b155cc57c9a6" />
+         <br>
+         Description:
+         <br>This is my side project i'm trying to make Tactical TurnBase Battle System</td> <!--desc-->
+      <td align="justify">
+                  Tech Stack:
+         <br><br>
+         <img width="40" height="40" alt="Unity" src="https://github.com/user-attachments/assets/15055160-7733-4caa-8bc0-84038452aaef" /><img width="63" height="38" alt="logo-c-630x380" src="https://github.com/user-attachments/assets/ec05df3b-10c9-441f-a6c5-b155cc57c9a6" />
+         <br>
+         Description:
+         <br>
+         this project is a RPG game focused on Battle System and action structure. The main goal was to develop a scalable gameplay foundation by using strategy pattern for action command in Unit, applying particle effect and Animation. The side system im trying to make in this project is the World UI and Using DG Tween to animate UI animation and explore system in city like buying item, inventory and player controller.
 <br><br>
 I Implement the EnemyAI in this using ActionValue in BaseAction so enemy can check every action it have to use the best action to use and every action can calculate action value differently depending on conditions</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Rubick07/Sunside_Cafe">Read More</a></td> <!--link1-->
       <td align="center"><a href="https://github.com/Rubick07/BelajarBikinTurnBase">Read More</a></td> <!--link2-->
-    </tr><img width="42" height="28" alt="GambarC" src="https://github.com/user-attachments/assets/5e32d4bf-a1ac-48b0-a872-a6ce6e5d8283" />
+    </tr>
 
 
     
@@ -82,8 +100,20 @@ I Implement the EnemyAI in this using ActionValue in BaseAction so enemy can che
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Echoes Beneath is a 3D Horror Game where the objective is to escape from sewer, uncover mystery ,and avoid the monster.</td> <!--desc-->
-      <td valign="text-top">Mirai is a 2D Side scroller action game set in the future in which you must travel beyond the wastelands to find the city of tomorrow that can save humanity.</td> <!--desc-->
+      <td valign="text-top">         Tech Stack:
+         <br><br>
+         <img width="40" height="40" alt="Unity" src="https://github.com/user-attachments/assets/15055160-7733-4caa-8bc0-84038452aaef" /><img width="63" height="38" alt="logo-c-630x380" src="https://github.com/user-attachments/assets/ec05df3b-10c9-441f-a6c5-b155cc57c9a6" />
+         <br>
+         Description:
+         <br>Echoes Beneath is a 3D Horror Game where the objective is to escape from sewer, uncover mystery ,and avoid the monster.</td> <!--desc-->
+      <td valign="text-top">
+                  Tech Stack:
+         <br><br>
+         <img width="40" height="40" alt="Unity" src="https://github.com/user-attachments/assets/15055160-7733-4caa-8bc0-84038452aaef" /><img width="63" height="38" alt="logo-c-630x380" src="https://github.com/user-attachments/assets/ec05df3b-10c9-441f-a6c5-b155cc57c9a6" />
+         <br>
+         Description:
+         <br>
+         Mirai is a 2D Side scroller action game set in the future in which you must travel beyond the wastelands to find the city of tomorrow that can save humanity.</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Redacted-Studio/Echoes_Beneath">Read More</a></td> <!--link1-->
@@ -117,8 +147,20 @@ I Implement the EnemyAI in this using ActionValue in BaseAction so enemy can che
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Drink Drink Drink is a game about creating a drinkable water company with trusty androids.</td> <!--desc-->
-      <td valign="text-top">A turn-based game where the hunter job is fight the virus, clear minigames to unlock firewall, and go to finish node</td> <!--desc-->
+      <td valign="text-top">         Tech Stack:
+         <br><br>
+         <img width="40" height="40" alt="Unity" src="https://github.com/user-attachments/assets/15055160-7733-4caa-8bc0-84038452aaef" /><img width="63" height="38" alt="logo-c-630x380" src="https://github.com/user-attachments/assets/ec05df3b-10c9-441f-a6c5-b155cc57c9a6" />
+         <br>
+         Description:
+         <br>
+         Drink Drink Drink is a game about creating a drinkable water company with trusty androids.</td> <!--desc-->
+      <td valign="text-top">         Tech Stack:
+         <br><br>
+         <img width="40" height="40" alt="Unity" src="https://github.com/user-attachments/assets/15055160-7733-4caa-8bc0-84038452aaef" /><img width="63" height="38" alt="logo-c-630x380" src="https://github.com/user-attachments/assets/ec05df3b-10c9-441f-a6c5-b155cc57c9a6" />
+         <br>
+         Description:
+         <br>
+         A turn-based game where the hunter job is fight the virus, clear minigames to unlock firewall, and go to finish node</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Rubick07/GameToday">Read More</a></td> <!--link 3-->
