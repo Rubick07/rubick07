@@ -33,6 +33,14 @@ Hello! My name is Evan Jonathan, I'm a game developer specialized in Unity Engin
          a serious Game about burnout syndrome, the game itself about a student named Lucas who experiences burnout and tries to cure it by going to his uncle's town during the holidays. During his vacation, he tries to explore his own problems with the help of those around him while helping his uncle with his problems.
          <br><br>
          Served as the sole programmer within a 3-person team, responsible for implementing entire technical architecture from GDD and applying UI from Figma
+         <br><br>
+         Things I learned in this project
+         <br>
+         • Multiscene <br>
+         • Slot UI System <br>
+         • Order Management System <br>
+         • Customer manager <br>
+         • Recipe Manager
       </td> <!--desc-->
       <td valign="text-top">         Tech Stack:
          <br><br>
@@ -40,7 +48,17 @@ Hello! My name is Evan Jonathan, I'm a game developer specialized in Unity Engin
          <br>
          Description:
          <br>
-         Echoes Beneath is a 3D Horror Game where the objective is to escape from sewer, uncover mystery ,and avoid the monster.</td> <!--desc-->
+         Echoes Beneath is a 3D Horror Game where the objective is to escape from sewer, uncover mystery ,and avoid the monster.
+                  <br><br>
+         Served as the programmer within a 10-person team, responsible for implementing Voice Recog System, Game flow and event, Player Controller, and minigames
+                  <br><br>
+         Things I learned in this project
+         <br>
+         • Voice Recog System <br>
+         • Player Controller using new input system <br>
+         • Objective Manager <br>
+         • Enemy Horror Game AI using state <br>
+      </td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Rubick07/Sunside_Cafe">Read More</a></td> <!--link1-->
@@ -73,7 +91,15 @@ Hello! My name is Evan Jonathan, I'm a game developer specialized in Unity Engin
          Description:
          <br>This project is one of my early Unity project where im trying to understand command Pattern and Tilebase System. 
       <br><br>
-The Main goal of this project to deepen understanding of command pattern and how to make a tilebase System by making a tactical combat game</td> <!--desc-->
+The Main goal of this project to deepen understanding of command pattern and how to make a tilebase System by making a tactical combat game         
+         <br><br>
+         Things I learned in this project
+         <br>
+         • Command Pattern <br>
+         • Tilebase System <br>
+         • Tilebase Combat System <br>
+         • Basic EnemyAI <br>
+      </td> <!--desc-->
       <td align="justify">
                   Tech Stack:
          <br><br>
@@ -83,7 +109,15 @@ The Main goal of this project to deepen understanding of command pattern and how
          <br>
          this project is a RPG game focused on Battle System and action structure. The main goal was to develop a scalable gameplay foundation by using command pattern for action command in Unit, applying particle effect and Animation, and basic battle flow. The side system im trying to make in this project is the World UI and Using DG Tween to animate UI animation and explore system in city like buying item, inventory and player controller.
 <br><br>
-I Implement the EnemyAI in this using ActionValue in BaseAction so enemy can check every action it have to use the best action to use and every action can calculate action value differently depending on conditions</td> <!--desc-->
+I Implement the EnemyAI in this using ActionValue in BaseAction so enemy can check every action it have to use the best action to use and every action can calculate action value differently depending on conditions <!--desc-->
+         <br><br>
+         Things I learned in this project
+         <br>
+         • RPG Turnbase Combat System <br>
+         • Integrating animation and particle effect in Action<br>
+         • Creating Turnbase UI <br>
+         • UI Animation using Tweening
+      </td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Rubick07/Sunside_Cafe">Read More</a></td> <!--link1-->
