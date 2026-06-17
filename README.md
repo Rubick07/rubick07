@@ -90,7 +90,6 @@ Hello! My name is Evan Jonathan, I'm a game developer specialized in Unity Engin
          <br>
          Description:
          <br>This project is one of my early Unity project where im trying to understand command Pattern and Tilebase System. 
-      <br><br>
       The main goal of this project to deepen understanding of command pattern and how to make a tilebase System by making a tactical combat game         
          <br><br>
          Things I learned in this project
@@ -107,8 +106,7 @@ Hello! My name is Evan Jonathan, I'm a game developer specialized in Unity Engin
          <br>
          Description:
          <br>
-         This project is a RPG game focused on Battle System and action structure.<br> <br>
-         The main goal was to develop a scalable gameplay foundation by using command pattern for action command in Unit, applying particle effect and Animation, and basic battle flow. The side system im trying to make in this project is the World UI and Using DG Tween to animate UI animation and explore system in city like buying item, inventory and player controller.
+         This project is a RPG game focused on Battle System and action structure.The main goal was to develop a scalable gameplay foundation by using command pattern for action command in Unit, applying particle effect and Animation, and basic battle flow. The side system im trying to make in this project is the World UI and Using DG Tween to animate UI animation and explore system in city like buying item, inventory and player controller.
          <br><br>
          Things I learned in this project
          <br>
