@@ -30,7 +30,7 @@ Hello! My name is Evan Jonathan, I'm a game developer specialized in Unity Engin
          <br>
          Description:
          <br>
-         a serious Game about burnout syndrome, the game itself about a student named Lucas who experiences burnout and tries to cure it by going to his uncle's town during the holidays. During his vacation, he tries to explore his own problems with the help of those around him while helping his uncle with his problems.
+         A serious game about burnout syndrome, the game itself about a student named Lucas who experiences burnout and tries to cure it by going to his uncle's town during the holidays. During his vacation, he tries to explore his own problems with the help of those around him while helping his uncle with his problems.
          <br><br>
          Served as the sole programmer within a 3-person team, responsible for implementing entire technical architecture from GDD and applying UI from Figma
          <br><br>
@@ -91,7 +91,7 @@ Hello! My name is Evan Jonathan, I'm a game developer specialized in Unity Engin
          Description:
          <br>This project is one of my early Unity project where im trying to understand command Pattern and Tilebase System. 
       <br><br>
-The Main goal of this project to deepen understanding of command pattern and how to make a tilebase System by making a tactical combat game         
+      The main goal of this project to deepen understanding of command pattern and how to make a tilebase System by making a tactical combat game         
          <br><br>
          Things I learned in this project
          <br>
@@ -107,9 +107,8 @@ The Main goal of this project to deepen understanding of command pattern and how
          <br>
          Description:
          <br>
-         this project is a RPG game focused on Battle System and action structure. The main goal was to develop a scalable gameplay foundation by using command pattern for action command in Unit, applying particle effect and Animation, and basic battle flow. The side system im trying to make in this project is the World UI and Using DG Tween to animate UI animation and explore system in city like buying item, inventory and player controller.
-<br><br>
-I Implement the EnemyAI in this using ActionValue in BaseAction so enemy can check every action it have to use the best action to use and every action can calculate action value differently depending on conditions <!--desc-->
+         This project is a RPG game focused on Battle System and action structure.<br> <br>
+         The main goal was to develop a scalable gameplay foundation by using command pattern for action command in Unit, applying particle effect and Animation, and basic battle flow. The side system im trying to make in this project is the World UI and Using DG Tween to animate UI animation and explore system in city like buying item, inventory and player controller.
          <br><br>
          Things I learned in this project
          <br>
