@@ -1,6 +1,4 @@
-Hi, I'm Evan 👋
----
-**📌About** <br>
+**📌About Me** <br>
 Hello! My name is Evan Jonathan, I'm a game developer specialized in Unity Engine. I enjoy developing games, designing gameplay systems, and turning ideas into playable experiences. Most of my projects are built using Unity and C#, with interests in game mechanics, AI, and explore new technologies related to game development.
 
 <br>
@@ -8,7 +6,7 @@ Hello! My name is Evan Jonathan, I'm a game developer specialized in Unity Engin
 
 
 
-## Featured Projects
+## 🎮 Featured Projects
 <table width="100%">
    <thead>
     <tr>
@@ -132,7 +130,7 @@ Hello! My name is Evan Jonathan, I'm a game developer specialized in Unity Engin
 <br>
 
 
-## Other Projects
+## ✨Other Projects
 <table width="100%">
   <thead>
     <tr>
@@ -197,11 +195,7 @@ Hello! My name is Evan Jonathan, I'm a game developer specialized in Unity Engin
 </table>
 
 
-<br>
-## Languages and Frameworks
-<br>
-
-<img width="86" height="28" alt="Unity" src="https://github.com/user-attachments/assets/208bd794-4159-4556-ac94-e3d5e1a5d197" />
+## 🧠Languages and Frameworks
 <img width="42" height="28" alt="C#" src="https://github.com/user-attachments/assets/629c4df3-89d7-47ec-8df8-bad79304a8f4" />
 
 
@@ -217,7 +211,7 @@ The tools / software that I often use are:
 <img width="87" height="28" alt="figma" src="https://github.com/user-attachments/assets/26956f8d-76c3-4725-8123-eb633209b4d0" />
 
 
-## Connect with me
+## 🔎Connect with me <br>
 <img width="87" height="28" alt="Gmail" src="https://github.com/user-attachments/assets/162462a2-7726-4553-a99e-11eb0c2b0286" /><img width="96" height="28" alt="Github" src="https://github.com/user-attachments/assets/da26f449-588f-4c04-8dc6-a21eefd07540" />
 
 
