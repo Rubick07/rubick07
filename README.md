@@ -117,7 +117,7 @@ Hello! My name is Evan Jonathan, I'm a game developer specialized in Unity Engin
       </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Rubick07/Sunside_Cafe">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/Rubick07/Tactical_Turnbase">Read More</a></td> <!--link1-->
       <td align="center"><a href="https://github.com/Rubick07/BelajarBikinTurnBase">Read More</a></td> <!--link2-->
     </tr>
 
