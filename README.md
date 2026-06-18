@@ -31,13 +31,13 @@ Hello! My name is Evan Jonathan, I'm a game developer specialized in Unity Engin
          <img width="40" height="40" alt="Unity" src="https://github.com/user-attachments/assets/15055160-7733-4caa-8bc0-84038452aaef" /><img width="63" height="38" alt="logo-c-630x380" src="https://github.com/user-attachments/assets/ec05df3b-10c9-441f-a6c5-b155cc57c9a6" />
          <br>
          Description:
-         <br>This project is one of my early Unity projects, where I explored the Command Pattern and tile-based systems. The main goal of this project was to deepen my understanding of the Command Pattern and learn how to create a tile-based system by developing a tactical combat game.<br>
+         <br>This project is one of my early Unity projects, where I explored the Command Pattern and tile-based systems. The main goal of this project was to deepen my understanding of the Command Pattern and learn how to create a tile-based system by developing a tactical combat game.<br><br>
 
-Things I Learned in This Project
-- Command Pattern
-- Tile-Based Systems
-- Tile-Based Combat Systems
-- Basic Enemy AI
+Things I Learned in This Project<br>
+• Command Pattern<br>
+• Tile-Based Systems<br>
+• Tile-Based Combat Systems <br>
+• Basic Enemy AI<br>
       </td> <!--desc-->
       <td valign="text-top">Tech Stack:
          <br><br>
@@ -45,7 +45,7 @@ Things I Learned in This Project
          <br>
          Description:
          <br>
-         This project is a RPG focused on battle system development and gameplay action architecture. The main goal was to develop a scalable gameplay foundation byimplementing the Command Pattern for unit actions, integrating animations and particle effects, and basic battle flow. In addition to the combat system, I also developed supporting systems in this project is the World UI and Using DG Tween to animate UI animation and city exploration features including item purchasing, inventory management, and player movement.
+         This project is a RPG focused on battle system development and gameplay action architecture. The main goal was to develop a scalable gameplay foundation by implementing the Command Pattern for unit actions, integrating animations and particle effects, and basic battle flow. In addition to the combat system, I also developed supporting systems in this project is the World UI and Using DG Tween to animate UI animation and city exploration features including item purchasing, inventory management, and player movement.
          <br><br>
          Things I learned in this project
          <br>
@@ -119,7 +119,7 @@ Things I Learned in This Project
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Rubick07/Sunside_Cafe">Read More</a></td> <!--link1-->
-       <td align="center"><a href="https://xviig.itch.io/echoes-beneath">Read More</a></td>
+       <td align="center"><a href="https://xviig.itch.io/echoes-beneath"></a></td>
     </tr>
     
   </tbody>
