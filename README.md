@@ -8,65 +8,6 @@ Hello! My name is Evan Jonathan, I'm a game developer specialized in Unity Engin
 
 ## 🎮 Featured Projects
 <table width="100%">
-   <thead>
-    <tr>
-      <th width="50%" align="center"><a>Sunside Cafe</a></th> <!--tittle-->
-       <th width="50%" align="center"><a>Echoes Beneath</a></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img width=100% height=auto alt="SunsidePorto" src="https://github.com/user-attachments/assets/5a0252aa-6247-4fab-882f-3811e4c8e4ac"/>
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/18b51d0a-24be-4d32-b7f6-130a70ea8416" alt="1" style="width:100%;height:auto;">
-      </td>
-    </tr>
-    <tr>
-      <td valign="text-top">
-         Tech Stack:
-         <br><br>
-         <img width="40" height="40" alt="Unity" src="https://github.com/user-attachments/assets/15055160-7733-4caa-8bc0-84038452aaef" /><img width="63" height="38" alt="logo-c-630x380" src="https://github.com/user-attachments/assets/ec05df3b-10c9-441f-a6c5-b155cc57c9a6" />
-         <br>
-         Description:
-         <br>
-         A serious game about burnout syndrome, the game itself about a student named Lucas who experiences burnout and tries to cure it by going to his uncle's town during the holidays. During his vacation, he tries to explore his own problems with the help of those around him while helping his uncle with his problems.
-         <br><br>
-         Served as the sole programmer within a 3-person team, responsible for implementing entire technical architecture from GDD and applying UI from Figma
-         <br><br>
-         Things I learned in this project
-         <br>
-         • Multiscene <br>
-         • Slot UI System <br>
-         • Order Management System <br>
-         • Customer manager <br>
-         • Recipe Manager
-      </td> <!--desc-->
-      <td valign="text-top">         Tech Stack:
-         <br><br>
-         <img width="40" height="40" alt="Unity" src="https://github.com/user-attachments/assets/15055160-7733-4caa-8bc0-84038452aaef" /><img width="63" height="38" alt="logo-c-630x380" src="https://github.com/user-attachments/assets/ec05df3b-10c9-441f-a6c5-b155cc57c9a6" />
-         <br>
-         Description:
-         <br>
-         Echoes Beneath is a 3D Horror Game where the objective is to escape from sewer, uncover mystery ,and avoid the monster.
-                  <br><br>
-         Served as the programmer within a 10-person team, responsible for implementing Voice Recog System, Game flow and event, Player Controller, and minigames
-                  <br><br>
-         Things I learned in this project
-         <br>
-         • Voice Recog System <br>
-         • Player Controller using new input system <br>
-         • Objective Manager <br>
-         • Enemy Horror Game AI using state <br>
-      </td> <!--desc-->
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/Rubick07/Sunside_Cafe">Read More</a></td> <!--link1-->
-       <td align="center"><a href="https://xviig.itch.io/echoes-beneath">Read More</a></td>
-    </tr>
-    
-  </tbody>
   
   <thead>
     <tr>
@@ -90,24 +31,21 @@ Hello! My name is Evan Jonathan, I'm a game developer specialized in Unity Engin
          <img width="40" height="40" alt="Unity" src="https://github.com/user-attachments/assets/15055160-7733-4caa-8bc0-84038452aaef" /><img width="63" height="38" alt="logo-c-630x380" src="https://github.com/user-attachments/assets/ec05df3b-10c9-441f-a6c5-b155cc57c9a6" />
          <br>
          Description:
-         <br>This project is one of my early Unity project where im trying to understand command Pattern and Tilebase System. 
-      The main goal of this project to deepen understanding of command pattern and how to make a tilebase System by making a tactical combat game         
-         <br><br>
-         Things I learned in this project
-         <br>
-         • Command Pattern <br>
-         • Tilebase System <br>
-         • Tilebase Combat System <br>
-         • Basic EnemyAI <br>
+         <br>This project is one of my early Unity projects, where I explored the Command Pattern and tile-based systems. The main goal of this project was to deepen my understanding of the Command Pattern and learn how to create a tile-based system by developing a tactical combat game.<br>
+
+Things I Learned in This Project
+- Command Pattern
+- Tile-Based Systems
+- Tile-Based Combat Systems
+- Basic Enemy AI
       </td> <!--desc-->
-      <td align="justify">
-                  Tech Stack:
+      <td valign="text-top">Tech Stack:
          <br><br>
          <img width="40" height="40" alt="Unity" src="https://github.com/user-attachments/assets/15055160-7733-4caa-8bc0-84038452aaef" /><img width="63" height="38" alt="logo-c-630x380" src="https://github.com/user-attachments/assets/ec05df3b-10c9-441f-a6c5-b155cc57c9a6" />
          <br>
          Description:
          <br>
-         This project is a RPG game focused on Battle System and action structure.The main goal was to develop a scalable gameplay foundation by using command pattern for action command in Unit, applying particle effect and Animation, and basic battle flow. The side system im trying to make in this project is the World UI and Using DG Tween to animate UI animation and explore system in city like buying item, inventory and player controller.
+         This project is a RPG focused on battle system development and gameplay action architecture. The main goal was to develop a scalable gameplay foundation byimplementing the Command Pattern for unit actions, integrating animations and particle effects, and basic battle flow. In addition to the combat system, I also developed supporting systems in this project is the World UI and Using DG Tween to animate UI animation and city exploration features including item purchasing, inventory management, and player movement.
          <br><br>
          Things I learned in this project
          <br>
@@ -125,6 +63,67 @@ Hello! My name is Evan Jonathan, I'm a game developer specialized in Unity Engin
 
     
   </tbody>
+  
+   <thead>
+    <tr>
+      <th width="50%" align="center"><a>Sunside Cafe</a></th> <!--tittle-->
+       <th width="50%" align="center"><a>Echoes Beneath</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img width=100% height=auto alt="SunsidePorto" src="https://github.com/user-attachments/assets/5a0252aa-6247-4fab-882f-3811e4c8e4ac"/>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/18b51d0a-24be-4d32-b7f6-130a70ea8416" alt="1" style="width:100%;height:auto;">
+      </td>
+    </tr>
+    <tr>
+      <td valign="text-top">
+         Tech Stack:
+         <br><br>
+         <img width="40" height="40" alt="Unity" src="https://github.com/user-attachments/assets/15055160-7733-4caa-8bc0-84038452aaef" /><img width="63" height="38" alt="logo-c-630x380" src="https://github.com/user-attachments/assets/ec05df3b-10c9-441f-a6c5-b155cc57c9a6" />
+         <br>
+         Description:
+         <br>
+         A serious game about burnout syndrome, The story follows a student named Lucas who experiences burnout and explores the causes of his burnout by spend his holiday in his uncle's town. During his vacation, he tries to explore his own problems with the support of the people around him while also helping his uncle overcome his own challenges.
+         <br><br>
+         Served as the sole game programmer within a 3-person team, responsible for implementing entire technical architecture from GDD and implementing UI designs from Figma
+         <br><br>
+         Things I learned in this project
+         <br>
+         • Multiscene <br>
+         • Slot UI System <br>
+         • Order Management System <br>
+         • Customer manager <br>
+         • Recipe Manager
+      </td> <!--desc-->
+      <td valign="text-top">         Tech Stack:
+         <br><br>
+         <img width="40" height="40" alt="Unity" src="https://github.com/user-attachments/assets/15055160-7733-4caa-8bc0-84038452aaef" /><img width="63" height="38" alt="logo-c-630x380" src="https://github.com/user-attachments/assets/ec05df3b-10c9-441f-a6c5-b155cc57c9a6" />
+         <br>
+         Description:
+         <br>
+         Echoes Beneath is a 3D Horror Game where the objective is to escape from sewer, uncover mystery ,and avoid the monster.
+                  <br><br>
+         Served as the game programmer within a 10-person team, responsible for implementing Voice Recog System, Game flow and event, Player Controller, and minigames
+                  <br><br>
+         Things I learned in this project
+         <br>
+         • Voice recognition System (speech recognition) <br>
+         • Player Controller using new input system <br>
+         • Objective Manager <br>
+         • Enemy Horror Game AI using state <br>
+      </td> <!--desc-->
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Rubick07/Sunside_Cafe">Read More</a></td> <!--link1-->
+       <td align="center"><a href="https://xviig.itch.io/echoes-beneath">Read More</a></td>
+    </tr>
+    
+  </tbody>
+  
 </table>
 
 <br>
@@ -197,6 +196,8 @@ Hello! My name is Evan Jonathan, I'm a game developer specialized in Unity Engin
 
 ## 🧠Languages and Frameworks
 <img width="42" height="28" alt="C#" src="https://github.com/user-attachments/assets/629c4df3-89d7-47ec-8df8-bad79304a8f4" />
+<img width="42" height="28" alt="C_Programming_Language svg" src="https://github.com/user-attachments/assets/4065c704-81b1-4f18-9196-61ec8542f255" />
+<img width="98" height="28" alt="python" src="https://github.com/user-attachments/assets/60af0550-3c97-44c8-965a-4799289525d6" />
 
 
 
@@ -212,6 +213,11 @@ The tools / software that I often use are:
 
 
 ## 🔎Connect with me <br>
-<img width="87" height="28" alt="Gmail" src="https://github.com/user-attachments/assets/162462a2-7726-4553-a99e-11eb0c2b0286" /><img width="96" height="28" alt="Github" src="https://github.com/user-attachments/assets/da26f449-588f-4c04-8dc6-a21eefd07540" />
+<a href="mailto:evanjonatham07@gmail.com">
+<img width="87" height="28" alt="Gmail" src="https://github.com/user-attachments/assets/162462a2-7726-4553-a99e-11eb0c2b0286" />
+</a>
+<a href="https://github.com/Rubick07">
+<img width="96" height="28" alt="Github" src="https://github.com/user-attachments/assets/da26f449-588f-4c04-8dc6-a21eefd07540" />
+</a>
 
 
