@@ -49,7 +49,7 @@ Things I Learned in This Project<br>
          <br><br>
          Things I learned in this project
          <br>
-         • RPG Turnbase Combat System <br>
+         • RPG turn-based Combat System <br>
          • Integrating animation and particle effect in Action<br>
          • Creating Turnbase UI <br>
          • UI Animation using Tweening
