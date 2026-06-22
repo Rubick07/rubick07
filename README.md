@@ -57,7 +57,7 @@ Things I Learned in This Project<br>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Rubick07/Tactical_Turnbase">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://github.com/Rubick07/BelajarBikinTurnBase">Read More</a></td> <!--link2-->
+      <td align="center"><a href="https://github.com/Rubick07/RPG_Turn-based">Read More</a></td> <!--link2-->
     </tr>
 
 
